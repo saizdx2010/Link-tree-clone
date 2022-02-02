@@ -24,3 +24,9 @@
     padding: 10px;
     border: 1px solid;
 }
+
+.socials-container .socials-icon{
+    margin: 5px 10px;
+    position: relative;
+    
+}
