@@ -35,6 +35,12 @@
     border-radius: 120px;
     padding: 10px;
     border: 1px solid;
+    transition: background-color ease-in-out 200ms;
+}
+
+.action-buttons:hover {
+    background-color: white;
+    transition: background-color ease-in-out 200ms;
 }
 
 .socials-container .socials-icon{
@@ -42,3 +48,4 @@
     position: relative;
     
 }
+
